@@ -17,4 +17,4 @@
 2. Встанови залежності:
 pip install -r requirements.txt
 3. Запусти:
-4. python main.py
+
